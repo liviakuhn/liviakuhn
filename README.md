@@ -1,6 +1,4 @@
 # Hi, I'm Livia! 👋
-<h2> Hi, I'm Livia! 👋</h2>
-
 
 <h2  align="center">:woman_technologist: About me</h2>
 <p align="center">
