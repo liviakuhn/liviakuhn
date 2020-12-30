@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Elasticsearch-a0c443?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
