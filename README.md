@@ -1,4 +1,6 @@
+# Hi, I'm Livia! 👋
 <h2> Hi, I'm Livia! 👋</h2>
+
 
 <h2  align="center">:woman_technologist: About me</h2>
 <p align="center">
@@ -6,7 +8,7 @@
   </samp>
 </p>
 
-<h2 align="center"> ⚡ Tech Stack</h2>
+<h2 align="center"> ⚡ Tech stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
