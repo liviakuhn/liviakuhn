@@ -8,20 +8,20 @@
 
 <h2 align="center">⚡ Tech stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Elasticsearch-a0c443?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Latex-008080?logo=LaTeX&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
+  <img src="badges/python.svg" />&nbsp;&nbsp;&nbsp;
+  <img src="badges/javascript.svg" />&nbsp;&nbsp;
+  <img src="badges/nodejs.svg" />&nbsp;&nbsp;
+  <img src="badges/html.svg" />&nbsp;&nbsp;
+  <img src="badges/css.svg" />&nbsp;&nbsp;
+  <img src="badges/bash.svg" />&nbsp;&nbsp;
+  <img src="badges/linux.svg" />&nbsp;&nbsp;
+  <img src="badges/git.svg" />&nbsp;&nbsp;
+  <img src="badges/docker.svg" />&nbsp;&nbsp;
+  <img src="badges/aws.svg" />&nbsp;&nbsp;
+  <img src="badges/mongodb.svg" />&nbsp;&nbsp;
+  <img src="badges/elasticsearch.svg" />&nbsp;&nbsp;
+  <img src="badges/vim.svg" />&nbsp;&nbsp;
+  <img src="badges/latex.svg" />&nbsp;&nbsp;
 </p>
 
 <h2  align="center">📫 Find me on</h2>
