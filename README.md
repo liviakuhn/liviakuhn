@@ -13,6 +13,7 @@
   <img src="badges/python.svg" />&nbsp;&nbsp;&nbsp;
   <img src="badges/javascript.svg" />&nbsp;&nbsp;
   <img src="badges/nodejs.svg" />&nbsp;&nbsp;
+  <img src="badges/react.svg" />&nbsp;&nbsp;
   <img src="badges/html.svg" />&nbsp;&nbsp;
   <img src="badges/css.svg" />&nbsp;&nbsp;
   <img src="badges/bash.svg" />&nbsp;&nbsp;
