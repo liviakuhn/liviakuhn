@@ -3,7 +3,7 @@
 <h2  align="center">:woman_technologist: About me</h2>
 <p align="center">
   <samp>
-    Data Scientist at <a href="https://contexta360.com/">Contexta360</a>. I specialise in Python :snake: and work with distributed cloud computing, microservice    
+    Data Scientist at <a href="https://contexta360.com/">Contexta360</a>. I specialise in Python :snake: and JavaScript and work with distributed cloud computing, microservice    
     architectures, container technology, Linux, database management systems, version control, and agile methodologies.
   </samp>
 </p>
