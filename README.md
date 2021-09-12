@@ -27,6 +27,7 @@
   <img src='badges/typescript.svg' />&nbsp;&nbsp;
   <img src='badges/nodejs.svg' />&nbsp;&nbsp;
   <img src='badges/react.svg' />&nbsp;&nbsp;
+  <img src='badges/nextjs.svg' />&nbsp;&nbsp;
   <img src='badges/html.svg' />&nbsp;&nbsp;
   <img src='badges/css.svg' />&nbsp;&nbsp;
   <img src='badges/bash.svg' />&nbsp;&nbsp;
