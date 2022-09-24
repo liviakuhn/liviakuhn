@@ -1,61 +1,39 @@
-# Hi, I'm Livia! 👋
+<div align="center">
 
-<h2
-  align='center'
->
-  :woman_technologist: About me
-</h2>
-<p
-  align='center'
->
-  <samp>
-    Full stack software developer at <a href='https://contexta360.com/'>Contexta360</a>. I specialise in TypeScript and Python :snake: and work with distributed cloud computing, microservice    
-    architectures, container technology, Linux, database management systems, version control, and agile methodologies.
-  </samp>
-</p>
+  # Hi, I'm Livia! 👋
 
-<h2
-  align='center'
->
-  ⚡ Tech stack
-</h2>
-<p
-  align='center'
->
-  <img src='badges/typescript.svg' />&nbsp;&nbsp;
-  <img src='badges/javascript.svg' />&nbsp;&nbsp;
-  <img src='badges/python.svg' />&nbsp;&nbsp;&nbsp;
-  <img src='badges/nodejs.svg' />&nbsp;&nbsp;
-  <img src='badges/expressjs.svg' />&nbsp;&nbsp;
-  <img src='badges/react.svg' />&nbsp;&nbsp;
-  <img src='badges/nextjs.svg' />&nbsp;&nbsp;
-  <img src='badges/html.svg' />&nbsp;&nbsp;
-  <img src='badges/css.svg' />&nbsp;&nbsp;
-  <img src='badges/bash.svg' />&nbsp;&nbsp;
-  <img src='badges/linux.svg' />&nbsp;&nbsp;
-  <img src='badges/git.svg' />&nbsp;&nbsp;
-  <img src='badges/docker.svg' />&nbsp;&nbsp;
-  <img src='badges/aws.svg' />&nbsp;&nbsp;
-  <img src='badges/mongodb.svg' />&nbsp;&nbsp;
-  <img src='badges/elasticsearch.svg' />&nbsp;&nbsp;
-  <img src='badges/vim.svg' />&nbsp;&nbsp;
-  <img src='badges/latex.svg' />&nbsp;&nbsp;
-</p>
+  ## 🚀 About Me
 
-<h2
-  align='center'
->
-  📫 Find me on
-</h2>
-<p
-  align='center'
->
-  <a
-    href='https://www.linkedin.com/in/liviakuhn/'
-  >
-    <img
-      src='badges/linkedin.svg'
-    >
-  </a>
-  &nbsp;&nbsp;
-</p>
+  I specialize in crafting scalable backend systems and automation tools that solve real-world problems. With expertise spanning from microservices architecture to cloud infrastructure, I love turning complex challenges into elegant solutions.
+
+  ## ⚡ Tech Stack
+
+  <table align="center">
+    <tr>
+      <td align="center"><strong>Languages</strong></td>
+      <td>Python • Golang • TypeScript</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Frameworks</strong></td>
+      <td>React • Next.js • Node.js</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>DevOps & Cloud</strong></td>
+      <td>AWS • GCP • Terraform • Kubernetes • Docker • GitHub Actions • Linux • Git</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Databases</strong></td>
+      <td>MongoDB • PostgreSQL • Redis • Elasticsearch</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tools</strong></td>
+      <td>Kafka • Vim</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Other</strong></td>
+      <td>Technical Project Management • Team Management • Technical Leadership</td>
+    </tr>
+  </table>
+
+
+</div>
